@@ -41,9 +41,6 @@
 </section>
 
 <style>
-	section {
-		margin-block: 1rem;
-	}
 	.puzzle {
 		--unit: 360deg / 13;
 		--radius: min(45vw, 15rem);

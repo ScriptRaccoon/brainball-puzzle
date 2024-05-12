@@ -62,9 +62,8 @@
 <Header />
 
 <main>
-	<Menu {rotateLeft} {rotateRight} {flip} {resetState} />
-
 	<Puzzle state={currentState} />
+	<Menu {rotateLeft} {rotateRight} {flip} {resetState} />
 	<Instructions />
 	<Shortcuts />
 </main>

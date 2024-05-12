@@ -16,7 +16,7 @@
 	menu {
 		display: flex;
 		justify-content: center;
-		margin-bottom: 2rem;
+		margin-block: 2rem;
 		flex-wrap: wrap;
 		gap: 1rem;
 	}
