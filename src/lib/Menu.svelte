@@ -38,8 +38,7 @@
 			gap: 0.5rem;
 		}
 		menu button {
-			padding: 0.2rem 0.4rem;
-			font-size: 0.8rem;
+			padding: 0.3rem 0.4rem;
 		}
 	}
 </style>
